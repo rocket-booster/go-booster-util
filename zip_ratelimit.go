@@ -1,4 +1,4 @@
-package main
+package util
 
 // From dablelv/go-huge-util
 
